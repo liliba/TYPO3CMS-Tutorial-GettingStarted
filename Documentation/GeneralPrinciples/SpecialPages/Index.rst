@@ -121,7 +121,7 @@ First, click on the new icon in the top left hand corner of the page tree:
   :alt: Add a new page with the page tree menu
 
 A menu will open that contains different symbols for different kinds of
-pages. Hover over them to see there names.
+pages. Hover over them to see their names.
 
 Now click and drag the "Link to External URL" icon (1) and drop it on the "Feedback" page (2):
 
